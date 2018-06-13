@@ -1,0 +1,21 @@
+.fon {
+    width: 330px;
+    min-height: 300px;
+    background: #FF6600;
+
+}
+.rows {
+    float:left;
+    width: 100px;
+    height: 100px;
+    background: #00F1FF;
+    margin: 5px;
+}
+
+.parentBlock{
+    clear: both;
+}
+
+
+
+

@@ -1,0 +1,24 @@
+div{
+    border: 1px solid black;
+    margin: 10px;
+}
+.header{
+    height: 50px;
+}
+.wrap{
+    height: 300px;
+}
+.main{
+    float: left;
+    height: 260px;
+    width: 60%;
+}
+.sidebar{
+    float: right;
+    width: 35%;
+    height: 260px;
+}
+
+.footer{
+    height: 80px;
+}
